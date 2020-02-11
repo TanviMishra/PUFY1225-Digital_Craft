@@ -36,13 +36,13 @@ function draw() {
   for ( let j = 1; j < num; j++ ) {
     let val = j / num * 200.0 + 51;
     stroke(val);
-    rect(ax[j - 1], ay[j - 1], ax[j], ay[j]);
+    ellipse(ax[j - 1], ay[j - 1], ax[j], ay[j]);
     noFill();
     
     if(mouseIsPressed)
     {
       strokeWeight(random(0.01,3));
-      fill(20,150,random(20,225))
+     // fill(20,150,random(20,225))
     
     }
   }
