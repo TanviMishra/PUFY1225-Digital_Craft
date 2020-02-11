@@ -1,5 +1,6 @@
 Digital Craft Spring-'20
 ## Homework Week 1
+* [blogpost]()
 
 ## Homework Week 2
 * [sketch 1]()
