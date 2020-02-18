@@ -13,5 +13,5 @@ Digital Craft Spring-'20
 * [sketch 3](https://TanviMishra.github.io/PUFY1225-Digital_Craft/Wk3/Wk3_Pt3_2020_02_11_07_05_56) 
 
 ## Homework Week 4
-* [sketch 1](https://TanviMishra.github.io/PUFY1225-Digital_Craft/WK4/Generative art/)
-* [sketch 2: GUI](https://TanviMishra.github.io/PUFY1225-Digital_Craft/WK4/Generative art/)
+* [sketch 1](https://TanviMishra.github.io/PUFY1225-Digital_Craft/WK4/Generative%20art/)
+* [sketch 2: GUI](https://TanviMishra.github.io/PUFY1225-Digital_Craft/WK4/FakeGUI/)
