@@ -20,3 +20,5 @@ Digital Craft Spring-'20
 ## Homework Week 5
 * [laser project](https://portfolio.newschool.edu/tanvimishra/2020/02/28/985/)
 
+## Homework Week 6
+* [sketch 1: countdown](https://TanviMishra.github.io/PUFY1225-Digital_Craft/countdown/)
