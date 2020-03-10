@@ -6,7 +6,7 @@ function draw() {
   background(250);
     //rotateX(mouseY/20);
    rotateY(mouseY/20);
-  
+ fill(140,198,64); 
   push(); //eye1
   translate(17, -250,0);
   sphere(5,5);
