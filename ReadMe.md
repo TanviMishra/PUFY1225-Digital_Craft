@@ -22,3 +22,6 @@ Digital Craft Spring-'20
 
 ## Homework Week 6
 * [sketch 1: countdown](https://TanviMishra.github.io/PUFY1225-Digital_Craft/countdown/)
+
+## Homework Week 7
+* [sketch 1: pickett](https://TanviMishra.github.io/PUFY1225-Digital_Craft/Pickett/)
