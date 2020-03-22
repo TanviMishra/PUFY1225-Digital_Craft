@@ -29,4 +29,4 @@ Digital Craft Spring-'20
 
 ## Homework Week 8
 * [music1](https://TanviMishra.github.io/PUFY1225-Digital_Craft/music/)
-* [pickett party with classes 1](https://TanviMishra.github.io/PUFY1225-Digital_Craft/music1/)
+* [pickett party with classes 1](https://TanviMishra.github.io/PUFY1225-Digital_Craft/Pickett3/)
