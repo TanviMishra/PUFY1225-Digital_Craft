@@ -6,10 +6,11 @@ soundFormats('mp3');
 
 function setup() {
   createCanvas(windowWidth, windowHeight);  
-  song.play();
+  
 }
 
 function draw() {
+ song.play();
 background("GREEN");
 
   }
