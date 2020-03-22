@@ -28,4 +28,5 @@ Digital Craft Spring-'20
 * [sketch 2:pickett on blender](https://TanviMishra.github.io/PUFY1225-Digital_Craft/picket2.blend)
 
 ## Homework Week 8
-* [pickett party with classes](https://TanviMishra.github.io/PUFY1225-Digital_Craft/music)
+* [pickett party with classes](https://TanviMishra.github.io/PUFY1225-Digital_Craft/music/)
+* [pickett party with classes 1](https://TanviMishra.github.io/PUFY1225-Digital_Craft/music1/)
