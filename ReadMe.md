@@ -25,4 +25,4 @@ Digital Craft Spring-'20
 
 ## Homework Week 7
 * [sketch 1: pickett](https://TanviMishra.github.io/PUFY1225-Digital_Craft/Pickett/)
-* [sketch 2:](https://TanviMishra.github.io/PUFY1225-Digital_Craft/p5/empty-example)
+* [sketch 2:pickett on blender](https://TanviMishra.github.io/PUFY1225-Digital_Craft/picket2.blend)
