@@ -18,7 +18,7 @@ function setup() {
   fr = ((bpm.get(15,2))/60);
   frameRate(fr);
   cam = createCamera();
-  song.play();
+  
   
   for(i=0;i<1;i++){
   picket[i] = new Picket(0,val1[count],0);  
@@ -35,7 +35,7 @@ function setup() {
 }
 
 function draw() {
-  
+  song.play();
   background(255,0,random(100, 200));
   
    cam.move(delta, 0, 0);
