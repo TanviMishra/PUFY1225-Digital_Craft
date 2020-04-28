@@ -32,4 +32,4 @@ Digital Craft Spring-'20
 * [pickett party with classes 1](https://TanviMishra.github.io/PUFY1225-Digital_Craft/Pickett3/)
 
 ## Homework Week 12
-* [Picket on the move](https://TanviMishra.github.io/PUFY1225-Digital_Craft/Picketonthemove/)
+* [Picket on the move](https://TanviMishra.github.io/PUFY1225-Digital_Craft/bubbly_bpm_2020_04_28_05_49_19/)
