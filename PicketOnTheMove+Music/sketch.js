@@ -5,6 +5,8 @@ let fr = 1//setting the frame rate
 let val = [[-5, 55] ,[25,25], -180, -300,0] //values accesed to form picket
 let val1 = [-600, -200, 200, 600,1000]
 let count = 0;
+let val2 = 0;
+
 
 function preload() {
   data = loadJSON('bubbles.json');
@@ -70,9 +72,9 @@ class Picket{
     noStroke();
     fill(140,198,64);   
     createShape(15,-300,20,150,rect) //body
-    let val2 = int(random(2));
-    triangle(15,-150,25,-150, val[val2][0], 10); //left leg
-    triangle(25,-150,35,-150, val[val2][1], 10); //right leg
+    val2+=1;
+    triangle(15,-150,25,-150, val[val2%2][0], 10); //left leg
+    triangle(25,-150,35,-150, val[val2%2][1], 10); //right leg
     triangle(15,-250,15,-240, -50,val[int(random(2,4))]); // left hand
     triangle(35,-250,35,-240, 90,val[int(random(2,4))]); // left hand
 
