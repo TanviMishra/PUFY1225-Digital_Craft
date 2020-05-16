@@ -44,7 +44,7 @@ function draw() {
   cam.move((delta/60), 0, 0);
   
   // every 10 frames, switch direction
-  if (frameCount % delta == 0) {
+  if (frameCount % 30 == 0) {
      //delta *= -1;
      }
     count++; 
