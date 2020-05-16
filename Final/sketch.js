@@ -12,7 +12,7 @@ let music = "null";
 
 function preload(){
   bpm = loadTable('bpm.csv');
-  music ='https://tanvimishra.github.io/PUFY1225-Digital_Craft/02-We Are The Champions.mp3';
+  music ="https://tanvimishra.github.io/PUFY1225-Digital_Craft/08-You're My Best Friend.mp3";
   sound = loadSound(music);
   music = "'"+music+"'"; 
 }
@@ -39,7 +39,7 @@ function draw() {
   
   background(101, 87, 181);
   let level = amplitude.getLevel();
-  let size = map(level, 0,1,0.25,2);
+  let size = map(level, 0,1,0.5,3);
   
   cam.move((delta/60), 0, 0);
   
