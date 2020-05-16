@@ -58,7 +58,7 @@ function draw() {
   }
   }
   
-  translate(40, 40, 0);
+  //translate(40, 40, 0);
   if (sound.isPlaying() ){
   
   for(i=1;i<=count;i++){
