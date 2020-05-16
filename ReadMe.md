@@ -42,7 +42,7 @@ Digital Craft Spring-'20
 * [Picket dance with Amplitude (Trial 5)](https://TanviMishra.github.io/PUFY1225-Digital_Craft/PicketAmplitude/)
 
 ## Homework Week 14
-* [Almost Final (Trial 6)](https://TanviMishra.github.io/PUFY1225-Digital_Craft/PicVer2/)
+* [Almost Final (Trial 6)](https://TanviMishra.github.io/PUFY1225-Digital_Craft/PicketVer2/)
 * [Final Dance (Trial 7)](https://TanviMishra.github.io/PUFY1225-Digital_Craft/Final/)
 
 ## Final Project: For the final project, I made a group of Bow-truckles dancing. They were dancing to the music on my Github account. To make sure they were dancing in sync, I used two sound characteristics: amplitude and beats per minute. The Bow-truckles change size with amplitude and move to the beats per minute. My one downfall, was that I was not able to create the random music generator from my music. This was because to use the loadSound parameter, I had to input a string not a variable. However, I am still quite proid of my final edit.
