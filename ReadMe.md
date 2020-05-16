@@ -32,7 +32,7 @@ Digital Craft Spring-'20
 * [pickett party with classes 1 (Trial 2)](https://TanviMishra.github.io/PUFY1225-Digital_Craft/Pickett3/)
 
 ## Homework Week 11
-* [Making my own Dataset](https://TanviMishra.github.io/PUFY1225-Digital_Craft/bpm.csv/)
+* [Making my own Dataset](https://github.com/TanviMishra/PUFY1225-Digital_Craft/blob/master/bpm.csv)
 
 ## Homework Week 12
 * [Picket on the move (Trial 3)](https://TanviMishra.github.io/PUFY1225-Digital_Craft/bubbly_bpm_2020_04_28_05_49_19/)
