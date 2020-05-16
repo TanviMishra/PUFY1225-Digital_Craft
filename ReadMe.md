@@ -34,3 +34,7 @@ Digital Craft Spring-'20
 ## Homework Week 12
 * [Picket on the move](https://TanviMishra.github.io/PUFY1225-Digital_Craft/bubbly_bpm_2020_04_28_05_49_19/)
 * [Picket on the move + music](https://TanviMishra.github.io/PUFY1225-Digital_Craft/PicketOnTheMove+Music/)
+
+## Homework Week 14
+* [Picket on the move](https://TanviMishra.github.io/PUFY1225-Digital_Craft/bubbly_bpm_2020_04_28_05_49_19/)
+* [Final Picket](https://TanviMishra.github.io/PUFY1225-Digital_Craft/Final/)
