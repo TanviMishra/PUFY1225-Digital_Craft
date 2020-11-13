@@ -50,4 +50,4 @@ Digital Craft Spring-'20
 
 
 ## FALL 2020
-* [BETADINE Game](https://github.com/TanviMishra/Betadine)
+* [BETADINE Game](https://github.com/TanviMishra/Betadine/blob/master/BitMapGame/index.html)
